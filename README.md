@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Antonio Neto!
+# 👋 Olá, eu sou o Antonio Carvalho Neto!
 
 💻 Desenvolvedor em evolução apaixonado por tecnologia  
 🚀 Focado em **Python, JavaScript, HTML, CSS, Django e MySQL**  
