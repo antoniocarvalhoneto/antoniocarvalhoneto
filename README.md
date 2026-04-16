@@ -41,9 +41,9 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n0vvar&show_icons=true&theme=chartreuse-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antoniocarvalhoneto&show_icons=true&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0vvar&layout=compact&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocarvalhoneto&layout=compact&theme=chartreuse-dark)
 
 ---
 
